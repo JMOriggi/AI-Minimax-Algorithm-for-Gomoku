@@ -1,16 +1,8 @@
-# 
-# Programming Assignment 2, CS640
-#
-# A Gomoku (Gobang) Game
-#
-# Adapted from CS111
-# By Yiwen Gu
-#
 # Playing the game 
 #   
 
-from pa2_gomoku import Board, Player
-from pa2 import *
+from gomoku import Board, Player
+from main import *
 
 
 def process_move(player, board):
