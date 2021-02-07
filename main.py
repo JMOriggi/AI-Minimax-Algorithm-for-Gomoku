@@ -1,12 +1,4 @@
-# 
-# Programming Assignment 2, CS640
-#
-# A Gomoku (Gobang) Game
-#
-# Adapted from CS111
-# By Yiwen Gu
-#
-# You need to implement an AI Player for Gomoku
+# Implement an AI Player for Gomoku
 # A Random Player is provided for you
 # 
 #
