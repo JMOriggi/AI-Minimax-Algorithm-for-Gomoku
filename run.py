@@ -1,6 +1,6 @@
-from pa2_gomoku import Player, RandomPlayer
-from pa2_process import gomoku
-from pa2 import AIPlayer 
+from gomoku import Player, RandomPlayer
+from process import gomoku
+from main import AIPlayer 
 
 #Juan = RandomPlayer('X')
 opp = AIPlayer('O')
