@@ -1,11 +1,3 @@
-# 
-# Programming Assignment 2, CS640
-#
-# A Gomoku (Gobang) Game
-#
-# Adapted from CS111
-# By Yiwen Gu
-#
 # The script provides a Gomoku Board class and a Player class
 #
 # 
