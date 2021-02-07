@@ -12,7 +12,7 @@
 #
 
 
-from pa2_gomoku import Player, Board
+from gomoku import Player, Board
 import math
 import numpy as np
 import copy
