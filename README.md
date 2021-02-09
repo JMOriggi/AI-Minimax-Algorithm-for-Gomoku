@@ -14,14 +14,14 @@ Three python scripts: gomoku.py, process.py and main.py. The first two scripts a
 
 ## Run Example
 
-1) Intialize two players:
+### 1) Intialize two players:
 
 ```
 >>>joe = Player('X')
 >>>dummy = RandomPlayer('O')
 ```
   
-2) Start the game:
+### 2) Start the game:
 
 ```
 >>>gomoku(joe, dummy)
@@ -47,7 +47,7 @@ Player: X's turn
 Enter a position: 
 ```
 
-3) Joe input the coordinates of her first step: 4 5 (Note that the input row and column is separated by whitespace.)
+### 3) Joe input the coordinates of her first step: 4 5 (Note that the input row and column is separated by whitespace.)
 Dummy put its checker "O" randomly at 6 5
 
 ```
@@ -91,7 +91,7 @@ Player: X's turn
 Enter a position: 
 ```
 
-4) Joe and Dummy place their checkers alternatingly until there is a winner or the board being full (tie).
+### 4) Joe and Dummy place their checkers alternatingly until there is a winner or the board being full (tie).
 
 Example of end of game:  
 
