@@ -7,8 +7,8 @@ If you are not familiar with Gomoku but know about Four-Connect or Tic-Tac-Toe, 
 
 1) Intialize two players:
 
->>>joe = Player('X')
->>>dummy = RandomPlayer('O')
+'>>>joe' = Player('X')
+'>>>dummy' = RandomPlayer('O')
       
 2) Start the game:
 
