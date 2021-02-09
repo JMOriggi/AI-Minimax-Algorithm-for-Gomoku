@@ -10,7 +10,7 @@ If you are not familiar with Gomoku but know about Four-Connect or Tic-Tac-Toe, 
 
 Three python scripts: gomoku.py, process.py and main.py. The first two scripts are provided for you to play the game, either against another human player (initiated as an object of the Player class) or against a dummy (RandomPlayer class). The last script main.py implement the AIPlayer class, core of the algorithm, that use a minimax graph algorithm with alpha beta prunning.
 
-[!alt](/minmax.jpg)
+![Alt text](/minmax.jpg)
 
 ## Run Example
 
