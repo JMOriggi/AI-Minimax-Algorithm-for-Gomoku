@@ -14,8 +14,11 @@ If you are not familiar with Gomoku but know about Four-Connect or Tic-Tac-Toe, 
   
 2) Start the game:
 
+```
 >>>gomoku(joe, dummy)
+```
 
+```
 Welcome to Gomoku!
 
 | | | | | | | | | | | 0
@@ -33,10 +36,12 @@ Welcome to Gomoku!
 
 Player: X's turn
 Enter a position: 
-      
+```
+
 3) Joe input the coordinates of her first step: 4 5 (Note that the input row and column is separated by whitespace.)
 Dummy put its checker "O" randomly at 6 5
 
+```
 Enter a position: 4 5
 
 | | | | | | | | | | | 0
@@ -51,7 +56,9 @@ Enter a position: 4 5
 | | | | | | | | | | | 9
 -----------------------
  0 1 2 3 4 5 6 7 8 9
+```
 
+```
 Player: O's turn
 
 | | | | | | | | | | | 0
@@ -67,13 +74,19 @@ Player: O's turn
 -----------------------
  0 1 2 3 4 5 6 7 8 9
 
+```
+
+```
 Player: X's turn
 
 Enter a position: 
+```
+
 4) Joe and Dummy place their checkers alternatingly until there is a winner or the board being full (tie).
 
 Example of end of game:  
 
+```
 Player: X wins in 5 moves.
 Congratulations!
 | | | | | | | | | | | 0
@@ -88,3 +101,4 @@ Congratulations!
 | | | | | | | | | | | 9
 -----------------------
  0 1 2 3 4 5 6 7 8 9
+ ```
