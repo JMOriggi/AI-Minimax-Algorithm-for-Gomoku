@@ -1,4 +1,4 @@
-# Minimax AI Game Algorithm
+# AI Minimax Algorithm with apha-beta prunning for Gomoku Game 
 
 Gomoku game AI player implementation using minimax adversarial algorithm. 
 In this project I have implemented an AI player to play Gomoku strategically on a reduced board (10 x 10). 
