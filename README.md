@@ -6,13 +6,13 @@ In this project I have implemented an AI player to play Gomoku strategically on 
 ## About Gomoku
 If you are not familiar with Gomoku but know about Four-Connect or Tic-Tac-Toe, you can view Gomoku as a variant of those two games. Besides the number of checkers required to form a line to win, the differences between Gomoku and the Four-Connect is that you can place your checker anywhere on the Gomoku board instead of stacking them. Compared to Tic-Tac-Toe, the Gomoku has a wider board and thus more complicated.
 
-![Alt text](/gomoku.jpg) 
+![Alt text](/git-docs/gomoku.jpg) 
 
 ## Algorithm
 
 Three python scripts: gomoku.py, process.py and main.py. The first two scripts are provided for you to play the game, either against another human player (initiated as an object of the Player class) or against a dummy (RandomPlayer class). The last script main.py implement the AIPlayer class, core of the algorithm, that use a minimax graph algorithm with alpha beta prunning. The penalty and reward policy is custom, and can be improved. For more about the minimax algorithm follow the [link](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning).
 
-![Alt text](/minmax.jpg)
+![Alt text](/git-docs/minmax.jpg)
 
 ## Run Example
 
