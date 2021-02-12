@@ -8,7 +8,7 @@ If you are not familiar with Gomoku but know about Four-Connect or Tic-Tac-Toe, 
 
 ## Algorithm
 
-Three python scripts: gomoku.py, process.py and main.py. The first two scripts are provided for you to play the game, either against another human player (initiated as an object of the Player class) or against a dummy (RandomPlayer class). The last script main.py implement the AIPlayer class, core of the algorithm, that use a minimax graph algorithm with alpha beta prunning. The penalty and reward policy is custom, and can be improved. For more about the minimax algorithm follow the [link]https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning
+Three python scripts: gomoku.py, process.py and main.py. The first two scripts are provided for you to play the game, either against another human player (initiated as an object of the Player class) or against a dummy (RandomPlayer class). The last script main.py implement the AIPlayer class, core of the algorithm, that use a minimax graph algorithm with alpha beta prunning. The penalty and reward policy is custom, and can be improved. For more about the minimax algorithm follow the [link](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning).
 
 ![Alt text](/minmax.jpg)
 
