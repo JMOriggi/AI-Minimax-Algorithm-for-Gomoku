@@ -5,7 +5,7 @@ In this project I have implemented an AI player to play Gomoku strategically on 
 
 ## About Gomoku
 If you are not familiar with Gomoku but know about Four-Connect or Tic-Tac-Toe, you can view Gomoku as a variant of those two games. Besides the number of checkers required to form a line to win, the differences between Gomoku and the Four-Connect is that you can place your checker anywhere on the Gomoku board instead of stacking them. Compared to Tic-Tac-Toe, the Gomoku has a wider board and thus more complicated.
-![Alt text](/gomoku.JPG ) 
+![Alt text](/gomoku.jpg) 
 
 ## Algorithm
 
